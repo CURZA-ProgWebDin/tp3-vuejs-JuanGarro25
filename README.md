@@ -22,13 +22,13 @@ Ubicarse en la carpeta donde se encuentra el proyecto.
 
 Ejecutar:
 
-npm install
+    npm install
 
 ### Paso 3. Ejecutar la aplicación
 
 Ejecutar:
 
-npm run dev
+    npm run dev
 
 ### Paso 4. Abrir el navegador
 
