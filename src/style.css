@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+.contenedor {
+  width: 90%;
+  margin: auto;
+}
+
+.titulo-principal {
+  color: #1f4faa;
+  text-align: center;
+}
+
+.tabs button {
+  margin-right: 8px;
+  margin-bottom: 10px;
+  padding: 6px 12px;
+}
+
+.tarjeta-producto {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.tarjeta-producto button {
+  margin-right: 8px;
+}
+
+.acciones {
+  margin-top: 10px;
+}
+
+.acciones button {
+  margin-right: 8px;
+}
+
+.acciones a {
+  margin-left: 5px;
+}
